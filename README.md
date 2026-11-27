@@ -1,6 +1,7 @@
 # FFV-PINN
 
 Code and example datasets for **FFV-PINN: A Fast Physics-Informed Neural Network with Simplified Finite Volume Discretization and Residual Correction**.
+
 [![python >3.8](https://img.shields.io/badge/python-3.8-brightgreen)](https://www.python.org/) 
 
 ## **FFV-PINN: A Fast Physics-Informed Neural Network with Simplified Finite Volume Discretization and Residual Correction**
